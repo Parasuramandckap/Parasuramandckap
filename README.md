@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Journal Writing**
 
-- 🌱 I’m currently learning **Express**
+- 🌱 I’m currently learning **Express.js**
 
 - 📝 I regularly write articles on [https://parasuraman02.wordpress.com](https://parasuraman02.wordpress.com)
 
