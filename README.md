@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parasuramandckap&label=Profile%20views&color=0e75b6&style=flat" alt="parasuramandckap" /> </p>
 
-- 🔭 I’m currently working on **Journal Writing**
+- 🔭 I’m currently working on **Palli Application**
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **React Js**
 
 - 📝 I regularly write articles on [https://parasuraman02.wordpress.com](https://parasuraman02.wordpress.com)
 
